@@ -1,0 +1,9 @@
+Change-Id: Ie8aabf227af5d1668f3de92383bc01421f06962b
+Code-Review+2: Andreas Makris <andreas.makris@gmail.com>
+Verified+1: Andreas Makris <andreas.makris@gmail.com>
+Code-Review+1: Arnav Gupta <championswimmer@gmail.com>
+Submitted-by: Andreas Makris <andreas.makris@gmail.com>
+Submitted-at: Wed, 24 Oct 2012 09:06:31 -0700
+Reviewed-on: http://review.cyanogenmod.com/25333
+Project: CyanogenMod/android_device_sony_kumquat
+Branch: refs/heads/ics
